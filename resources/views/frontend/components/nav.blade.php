@@ -3,6 +3,7 @@
         ['name' => 'Home', 'route' => 'home'],
         ['name' => 'About', 'route' => 'about'],
         ['name' => 'Contact', 'route' => 'contact'],
+        ['name' => 'Login', 'route' => 'login'],
     ];
 
 @endphp
